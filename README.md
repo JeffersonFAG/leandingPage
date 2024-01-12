@@ -2,7 +2,7 @@
 Leanding page tree
 
 # Oasis Piscinas - Landing Page
-Welcome to Piscinas Dreamland, the official website of our company specializing in the creation of customized pools. This project was developed with Next.js 14 and utilizes Tailwind CSS for modern and responsive styles.
+Bienvenido a Piscinas Dreamland, el sitio web oficial de nuestra empresa especializada en la creación de piscinas personalizadas. Este proyecto fue desarrollado con Next.js 14 y utiliza Tailwind CSS para estilos modernos y responsivos.
 
 Installation
 Clone this repository to your local machine:
@@ -26,17 +26,19 @@ To run the application in development mode, use the following command:
 bash
 Copy code
 npm run dev
-This will start the Next.js development server, and you can view the application at http://localhost:3000.
+Esto iniciará el servidor de desarrollo Next.js, y podrás ver la aplicación en http://localhost:3000.
 
-Project Structure
-The project follows a common Next.js structure. Some key directories include:
+Estructura del proyecto
+El proyecto sigue la estructura común de Next.js. Algunos directorios clave son:
 
-/pages: Contains the application's pages.
-/styles: Stores Tailwind CSS configuration files and styles.
-/public: Where you can place static resources such as images.
+/pages: Contiene las páginas de la aplicación.
+/styles: Almacena los archivos de configuración CSS y estilos de Tailwind.
+/public: Donde puedes colocar recursos estáticos como imágenes.
 
 
-Contributions
-We welcome contributions! If you find issues or have improvements, please open an issue or submit a pull request.
+Contribuciones
+Agradecemos cualquier contribución. Si encuentras algún problema o tienes alguna mejora, por favor, abre una incidencia o envía un pull request.
 
-Thank you for visiting! We hope you enjoy exploring our landing page.
+Gracias por su visita. Esperamos que disfrute explorando nuestra página de inicio.
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
