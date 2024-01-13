@@ -40,5 +40,3 @@ Contribuciones
 Agradecemos cualquier contribución. Si encuentras algún problema o tienes alguna mejora, por favor, abre una incidencia o envía un pull request.
 
 Gracias por su visita. Esperamos que disfrute explorando nuestra página de inicio.
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
